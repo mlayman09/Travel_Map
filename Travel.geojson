@@ -375,6 +375,21 @@
           37.938782346134396
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tangier, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99037170410156,
+          37.82849729680382
+        ]
+      }
     }
   ]
 }
