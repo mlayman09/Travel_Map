@@ -735,6 +735,21 @@
           37.32102825630305
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pearisburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73234558105469,
+          37.32703462722375
+        ]
+      }
     }
   ]
 }
