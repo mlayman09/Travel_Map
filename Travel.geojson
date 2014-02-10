@@ -240,6 +240,21 @@
           38.98076276501633
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Fairfax, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3052978515625,
+          38.84826438869913
+        ]
+      }
     }
   ]
 }
