@@ -465,6 +465,21 @@
           38.227123177685996
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Massanutten Mountain, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77008438110352,
+          38.39293526031571
+        ]
+      }
     }
   ]
 }
