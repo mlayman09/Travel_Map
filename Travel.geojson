@@ -675,6 +675,21 @@
           37.13842453422676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Jefferson National Forest, VA",
+        "COUNTRY": "USA",
+        "TYPE": "National Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54351806640625,
+          37.36360851770406
+        ]
+      }
     }
   ]
 }
