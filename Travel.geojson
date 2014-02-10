@@ -615,6 +615,21 @@
           39.65434146406167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Keyser, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97418975830078,
+          39.44176112227503
+        ]
+      }
     }
   ]
 }
