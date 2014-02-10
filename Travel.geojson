@@ -756,7 +756,7 @@
       "properties": {
         "NAME": "Claytor Lake State Park, VA",
         "COUNTRY": "USA",
-        "TYPE": "Hydrological Feature"
+        "TYPE": "Natural Feature"
       },
       "geometry": {
         "type": "Point",
