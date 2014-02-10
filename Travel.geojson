@@ -471,7 +471,7 @@
       "properties": {
         "NAME": "Massanutten Mountain, VA",
         "COUNTRY": "USA",
-        "TYPE": "Mountain"
+        "TYPE": "Natural Feature"
       },
       "geometry": {
         "type": "Point",
