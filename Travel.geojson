@@ -630,6 +630,21 @@
           39.44176112227503
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Highland Retreat of the Mennonite Church, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89685630798338,
+          38.77312351348149
+        ]
+      }
     }
   ]
 }
