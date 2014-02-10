@@ -225,6 +225,21 @@
           38.89530825492018
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "College Park, MD",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92901611328125,
+          38.98076276501633
+        ]
+      }
     }
   ]
 }
