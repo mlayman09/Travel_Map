@@ -330,6 +330,21 @@
           38.96047664397741
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Salisbury, MD",
+        "COUNTRY": "UsA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6024169921875,
+          38.371808917147554
+        ]
+      }
     }
   ]
 }
