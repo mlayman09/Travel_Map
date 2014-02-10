@@ -600,6 +600,21 @@
           39.14949897356036
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Cumberland, MD",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.76167297363281,
+          39.65434146406167
+        ]
+      }
     }
   ]
 }
