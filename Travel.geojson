@@ -555,6 +555,21 @@
           39.01898363535647
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Davis, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46514129638672,
+          39.129793920878676
+        ]
+      }
     }
   ]
 }
