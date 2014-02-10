@@ -19,7 +19,7 @@ Values: {Name of Country}
 
 Column:  TYPE
 
-Values:  {City, Town, National Park, National Forest, Wilderness Area, Hydrological feature}
+Values:  {City, Town, National Park, National Forest, Wilderness Area, Natural Feature, Historical Feature}
 
 
 
