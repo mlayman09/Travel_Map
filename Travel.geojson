@@ -405,6 +405,21 @@
           37.96747811844137
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Harpers Ferry, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73239135742188,
+          39.32633057389337
+        ]
+      }
     }
   ]
 }
