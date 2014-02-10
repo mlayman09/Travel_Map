@@ -525,6 +525,21 @@
           38.70761583218457
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Seneca Rocks, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.36707973480225,
+          38.83465997069901
+        ]
+      }
     }
   ]
 }
