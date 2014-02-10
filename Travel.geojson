@@ -780,6 +780,21 @@
           37.39252748113648
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Salem, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05393981933594,
+          37.29590550406618
+        ]
+      }
     }
   ]
 }
