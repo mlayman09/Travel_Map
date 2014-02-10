@@ -435,6 +435,21 @@
           39.31517545076218
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Berkeley Springs, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2281494140625,
+          39.63953756436671
+        ]
+      }
     }
   ]
 }
