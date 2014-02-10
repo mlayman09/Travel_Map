@@ -480,6 +480,36 @@
           38.39293526031571
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dolly Sods Wilderness Area",
+        "COUNTRY": "USA",
+        "TYPE": "Wilderness Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35596466064453,
+          39.01971716735042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Harman, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52384948730469,
+          38.92416066460569
+        ]
+      }
     }
   ]
 }
