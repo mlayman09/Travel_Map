@@ -315,6 +315,21 @@
           38.886757140695906
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Reston, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35954284667969,
+          38.96047664397741
+        ]
+      }
     }
   ]
 }
