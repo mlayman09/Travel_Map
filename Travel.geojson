@@ -690,6 +690,21 @@
           37.36360851770406
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Burkes Garden, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3372802734375,
+          37.09462150015557
+        ]
+      }
     }
   ]
 }
