@@ -335,7 +335,7 @@
       "type": "Feature",
       "properties": {
         "NAME": "Salisbury, MD",
-        "COUNTRY": "UsA",
+        "COUNTRY": "USA",
         "TYPE": "City"
       },
       "geometry": {
@@ -343,6 +343,21 @@
         "coordinates": [
           -75.6024169921875,
           38.371808917147554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Assateague Island National Seashore, VA",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.28656005859375,
+          37.974514992024616
         ]
       }
     }
