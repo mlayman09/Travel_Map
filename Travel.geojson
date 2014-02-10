@@ -570,6 +570,21 @@
           39.129793920878676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Blackwater Falls State Park, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53380584716795,
+          39.10408918216985
+        ]
+      }
     }
   ]
 }
