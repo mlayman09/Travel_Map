@@ -420,6 +420,21 @@
           39.32633057389337
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Brunswick, MD",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62802124023438,
+          39.31517545076218
+        ]
+      }
     }
   ]
 }
