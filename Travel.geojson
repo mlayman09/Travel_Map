@@ -270,6 +270,21 @@
           38.971154274048345
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Winchester, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.16635131835938,
+          39.18862643257856
+        ]
+      }
     }
   ]
 }
