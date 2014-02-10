@@ -285,6 +285,21 @@
           39.18862643257856
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "George Washington National Forest, VA",
+        "COUNTRY": "USA",
+        "TYPE": "National Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03701782226562,
+          38.710160941206645
+        ]
+      }
     }
   ]
 }
