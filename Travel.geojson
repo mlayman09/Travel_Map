@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"NAME":"Harrisonburg, VA","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-78.86810302734375,38.44390909175746]}},{"type":"Feature","properties":{"NAME":"Franklin, WV","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-79.32815551757812,38.64315421306983]}},{"type":"Feature","properties":{"NAME":"Broadway, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-78.79600524902344,38.61418790695693]}},{"type":"Feature","properties":{"NAME":"Luray, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-78.453369140625,38.666211605156704]}},{"type":"Feature","properties":{"NAME":"Front Royal, VA","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-78.189697265625,38.91561302513129]}},{"type":"Feature","properties":{"NAME":"Monterey, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-79.573974609375,38.41271038284709]}},{"type":"Feature","properties":{"NAME":"McDowell, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-79.49037551879883,38.334923959718616]}},{"type":"Feature","properties":{"NAME":"Staunton, VA","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-79.06997680664062,38.14967752360809]}},{"type":"Feature","properties":{"NAME":"Waynesboro, VA","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-78.87702941894531,38.06647354576796]}},{"type":"Feature","properties":{"NAME":"Charlottesville, VA","COUNTRY":"USA","TYPE":"City"},"geometry":{"type":"Point","coordinates":[-78.486328125,38.027540481011]}},{"type":"Feature","properties":{"NAME":"Orange, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-78.10455322265625,38.24680876017446]}},{"type":"Feature","properties":{"NAME":"Madison, VA","COUNTRY":"USA","TYPE":"Town"},"geometry":{"type":"Point","coordinates":[-78.25698852539062,38.38418943358851]}},{"type":"Feature","properties":{"NAME":"Shenandoah National Park, VA","COUNTRY":"USA","TYPE":"National Park"},"geometry":{"type":"Point","coordinates":[-78.45474243164062,38.47509432050245]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Harrisonburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86810302734375,
+          38.44390909175746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Franklin, WV",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32815551757812,
+          38.64315421306983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Broadway, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.79600524902344,
+          38.61418790695693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Luray, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.453369140625,
+          38.666211605156704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Front Royal, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.189697265625,
+          38.91561302513129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Monterey, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.573974609375,
+          38.41271038284709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "McDowell, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49037551879883,
+          38.334923959718616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Staunton, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06997680664062,
+          38.14967752360809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Waynesboro, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87702941894531,
+          38.06647354576796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Charlottesville, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.486328125,
+          38.027540481011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Orange, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.10455322265625,
+          38.24680876017446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Madison, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.25698852539062,
+          38.38418943358851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Shenandoah National Park, VA",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.45474243164062,
+          38.47509432050245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Fredericksburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46116638183594,
+          38.306102934215616
+        ]
+      }
+    }
+  ]
+}
