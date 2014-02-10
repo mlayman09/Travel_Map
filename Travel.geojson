@@ -720,6 +720,21 @@
           37.38216158779349
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pembroke, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.63621520996094,
+          37.32102825630305
+        ]
+      }
     }
   ]
 }
