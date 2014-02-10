@@ -390,6 +390,21 @@
           37.82849729680382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tylerton, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.02298736572266,
+          37.96747811844137
+        ]
+      }
     }
   ]
 }
