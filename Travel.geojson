@@ -210,6 +210,21 @@
           38.306102934215616
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Washington DC, District of Columbia",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02789306640625,
+          38.89530825492018
+        ]
+      }
     }
   ]
 }
