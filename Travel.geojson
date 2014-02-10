@@ -765,6 +765,21 @@
           37.05791696358488
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "McAfee's Knob, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0357437133789,
+          37.39252748113648
+        ]
+      }
     }
   ]
 }
