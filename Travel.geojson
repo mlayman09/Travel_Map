@@ -705,6 +705,21 @@
           37.09462150015557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Catawba, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.11024475097656,
+          37.38216158779349
+        ]
+      }
     }
   ]
 }
