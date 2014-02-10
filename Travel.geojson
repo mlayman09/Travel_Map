@@ -360,6 +360,21 @@
           37.974514992024616
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Chincoteague, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37582397460938,
+          37.938782346134396
+        ]
+      }
     }
   ]
 }
