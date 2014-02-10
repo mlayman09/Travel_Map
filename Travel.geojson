@@ -750,6 +750,21 @@
           37.32703462722375
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Claytor Lake State Park, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Hydrological Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6121826171875,
+          37.05791696358488
+        ]
+      }
     }
   ]
 }
