@@ -450,6 +450,21 @@
           39.63953756436671
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Churchville, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1616439819336,
+          38.227123177685996
+        ]
+      }
     }
   ]
 }
