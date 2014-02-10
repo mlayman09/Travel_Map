@@ -585,6 +585,21 @@
           39.10408918216985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Thomas, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49878692626953,
+          39.14949897356036
+        ]
+      }
     }
   ]
 }
