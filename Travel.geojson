@@ -660,6 +660,21 @@
           37.231421807404715
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Christiansburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40069580078125,
+          37.13842453422676
+        ]
+      }
     }
   ]
 }
