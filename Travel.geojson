@@ -540,6 +540,21 @@
           38.83465997069901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Whitegrass Ski Area, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42248344421387,
+          39.01898363535647
+        ]
+      }
     }
   ]
 }
