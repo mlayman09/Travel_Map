@@ -915,6 +915,21 @@
           37.13924559906393
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lynchburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1400146484375,
+          37.413800350662875
+        ]
+      }
     }
   ]
 }
