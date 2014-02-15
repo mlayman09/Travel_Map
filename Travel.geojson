@@ -840,6 +840,21 @@
           37.274052809979054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Cape Charles, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.00341796875,
+          37.260938147754516
+        ]
+      }
     }
   ]
 }
