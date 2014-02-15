@@ -810,6 +810,21 @@
           37.28497995025375
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Richmond, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43026733398438,
+          37.54076623355796
+        ]
+      }
     }
   ]
 }
