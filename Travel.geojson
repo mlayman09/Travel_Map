@@ -945,6 +945,21 @@
           37.735969208590504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Glasgow, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43389892578125,
+          37.63380988687157
+        ]
+      }
     }
   ]
 }
