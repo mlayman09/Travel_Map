@@ -990,6 +990,21 @@
           37.820632846207864
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Smith Mountain Lake, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.595947265625,
+          37.046408899699564
+        ]
+      }
     }
   ]
 }
