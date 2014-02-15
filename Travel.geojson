@@ -870,6 +870,21 @@
           36.9800665440453
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Norfolk, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27361297607422,
+          36.86231738103478
+        ]
+      }
     }
   ]
 }
