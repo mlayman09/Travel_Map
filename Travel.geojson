@@ -975,6 +975,21 @@
           37.794592824285104
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Clifton Forge, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81842041015625,
+          37.820632846207864
+        ]
+      }
     }
   ]
 }
