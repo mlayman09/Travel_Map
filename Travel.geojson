@@ -885,6 +885,21 @@
           36.86231738103478
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Virginia Beach, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98693847656249,
+          36.81808022778526
+        ]
+      }
     }
   ]
 }
