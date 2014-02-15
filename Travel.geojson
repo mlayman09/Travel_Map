@@ -960,6 +960,21 @@
           37.63380988687157
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Covington, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.991455078125,
+          37.794592824285104
+        ]
+      }
     }
   ]
 }
