@@ -855,6 +855,21 @@
           37.260938147754516
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Newport News, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42776489257812,
+          36.9800665440453
+        ]
+      }
     }
   ]
 }
