@@ -825,6 +825,21 @@
           37.54076623355796
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Williamsburg, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69830322265625,
+          37.274052809979054
+        ]
+      }
     }
   ]
 }
