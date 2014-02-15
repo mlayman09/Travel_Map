@@ -900,6 +900,21 @@
           36.81808022778526
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Surry, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8332290649414,
+          37.13924559906393
+        ]
+      }
     }
   ]
 }
