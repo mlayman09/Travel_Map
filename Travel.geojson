@@ -930,6 +930,21 @@
           37.413800350662875
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Buena Vista, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3487548828125,
+          37.735969208590504
+        ]
+      }
     }
   ]
 }
