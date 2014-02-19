@@ -1020,6 +1020,21 @@
           37.26968150969715
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Radford, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57373046875,
+          37.132950540920135
+        ]
+      }
     }
   ]
 }
