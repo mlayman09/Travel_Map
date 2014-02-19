@@ -1095,6 +1095,21 @@
           36.77587998851891
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ivanhoe, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96700668334961,
+          36.84033938530768
+        ]
+      }
     }
   ]
 }
