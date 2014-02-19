@@ -1110,6 +1110,21 @@
           36.84033938530768
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Troutdale, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44027709960938,
+          36.70200805115167
+        ]
+      }
     }
   ]
 }
