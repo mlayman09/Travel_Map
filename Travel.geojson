@@ -1140,6 +1140,21 @@
           36.6597439325592
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Damascus, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78394317626953,
+          36.63481511975864
+        ]
+      }
     }
   ]
 }
