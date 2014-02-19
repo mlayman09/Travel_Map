@@ -1050,6 +1050,21 @@
           38.35888785866677
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Floyd, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31898498535156,
+          36.9092741551487
+        ]
+      }
     }
   ]
 }
