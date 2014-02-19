@@ -1290,6 +1290,51 @@
           38.38244014132493
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Middletown, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.27140808105467,
+          39.02558514933794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Woodstock, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.50555419921875,
+          38.88355020746342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mount Jackson, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64151000976562,
+          38.74685401687219
+        ]
+      }
     }
   ]
 }
