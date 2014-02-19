@@ -1155,6 +1155,36 @@
           36.63481511975864
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Wytheville, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.08390808105469,
+          36.95098926024788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bristol, VA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17361450195312,
+          36.598991657383294
+        ]
+      }
     }
   ]
 }
