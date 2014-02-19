@@ -1230,6 +1230,66 @@
           37.30505443455426
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Stuarts Draft, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03289794921875,
+          38.03078569382294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Elkton, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62125396728516,
+          38.40840605494758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dayton, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93814086914062,
+          38.417014454352035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bridgewater, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97590637207031,
+          38.38244014132493
+        ]
+      }
     }
   ]
 }
