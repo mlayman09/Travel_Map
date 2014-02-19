@@ -1125,6 +1125,21 @@
           36.70200805115167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Rogers, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54481887817383,
+          36.6597439325592
+        ]
+      }
     }
   ]
 }
