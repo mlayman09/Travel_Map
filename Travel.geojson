@@ -1185,6 +1185,36 @@
           36.598991657383294
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Jonesville, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10813903808594,
+          36.69044623523481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pennington Gap, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02505493164062,
+          36.76116629868542
+        ]
+      }
     }
   ]
 }
