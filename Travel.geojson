@@ -1065,6 +1065,21 @@
           36.9092741551487
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Marion, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51512145996094,
+          36.835118682834256
+        ]
+      }
     }
   ]
 }
