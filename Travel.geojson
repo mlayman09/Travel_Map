@@ -1035,6 +1035,21 @@
           37.132950540920135
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Charleston, WV",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63940429687499,
+          38.35888785866677
+        ]
+      }
     }
   ]
 }
