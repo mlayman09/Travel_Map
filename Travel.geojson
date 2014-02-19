@@ -1215,6 +1215,21 @@
           36.76116629868542
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pocahontas, WV",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33848190307617,
+          37.30505443455426
+        ]
+      }
     }
   ]
 }
