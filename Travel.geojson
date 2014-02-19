@@ -1005,6 +1005,21 @@
           37.046408899699564
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bluefield, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22467041015625,
+          37.26968150969715
+        ]
+      }
     }
   ]
 }
