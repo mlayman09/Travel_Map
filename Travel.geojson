@@ -1080,6 +1080,21 @@
           36.835118682834256
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sugar Grove, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.41195297241211,
+          36.77587998851891
+        ]
+      }
     }
   ]
 }
