@@ -1530,6 +1530,36 @@
           36.31733823488624
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Charlotte, NC",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8428955078125,
+          35.23440284749622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Boone, NC",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67098999023438,
+          36.22045692550888
+        ]
+      }
     }
   ]
 }
