@@ -1560,6 +1560,51 @@
           36.22045692550888
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rock Hill, SC",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02279663085938,
+          34.92534898410142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Columbia, SC",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03515625,
+          34.00713506435885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Brunswick, GA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.485595703125,
+          31.154057975490836
+        ]
+      }
     }
   ]
 }
