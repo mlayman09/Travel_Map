@@ -1875,6 +1875,36 @@
           42.508552415528634
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Baraboo, WI",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.73495483398438,
+          43.47086090917325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rochester, MN",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4664306640625,
+          44.03232064275084
+        ]
+      }
     }
   ]
 }
