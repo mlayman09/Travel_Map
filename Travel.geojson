@@ -1515,6 +1515,21 @@
           40.79717741518769
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Johnson City, TN",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34390258789062,
+          36.31733823488624
+        ]
+      }
     }
   ]
 }
