@@ -1605,6 +1605,51 @@
           31.154057975490836
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Blowing Rock, NC",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6775131225586,
+          36.135240632625454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Louisville, KY",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7537841796875,
+          38.257593120395356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Evansville, IN",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5445556640625,
+          37.983174833513395
+        ]
+      }
     }
   ]
 }
