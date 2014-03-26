@@ -1905,6 +1905,36 @@
           44.03232064275084
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Eureka, IL",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27215576171874,
+          40.7196806451724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Indianapolis, IN",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15753173828125,
+          39.7642140375156
+        ]
+      }
     }
   ]
 }
