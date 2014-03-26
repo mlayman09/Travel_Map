@@ -2100,6 +2100,66 @@
           41.86853817536259
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Portland, ME",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2630615234375,
+          43.66588482492509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bangor, ME",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.77166748046875,
+          44.80132682904856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bar Harbor, ME",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.203125,
+          44.38669150215206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Acadia National Park, ME",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.28483581542969,
+          44.33563634908042
+        ]
+      }
     }
   ]
 }
