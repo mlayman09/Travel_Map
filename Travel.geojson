@@ -2310,6 +2310,66 @@
           44.25700308645885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Jay, NY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.72787475585938,
+          44.374913492661456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lake Placid, NY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98193359375,
+          44.280112529946315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ticonderoga, NY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43124389648438,
+          43.846412964702395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Whiteface Mountain, NY",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90296936035156,
+          44.36509667482153
+        ]
+      }
     }
   ]
 }
