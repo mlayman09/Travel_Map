@@ -2235,6 +2235,81 @@
           44.469071224701096
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Waterbury, VT",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.75489807128906,
+          44.337109717061864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Stowe, VT",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68280029296875,
+          44.46711115202032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Mansfield, VT",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.81455039978027,
+          44.54338286692009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Green Mountain National Forest, VT",
+        "COUNTRY": "USA",
+        "TYPE": "National Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90802001953125,
+          44.264871151101985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Keene, NY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.79241943359375,
+          44.25700308645885
+        ]
+      }
     }
   ]
 }
