@@ -2370,6 +2370,21 @@
           44.36509667482153
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Albany, NY",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75946044921875,
+          42.65214190481525
+        ]
+      }
     }
   ]
 }
