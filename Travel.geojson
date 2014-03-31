@@ -2385,6 +2385,366 @@
           42.65214190481525
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lovingston, VA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87016296386719,
+          37.759315660088305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Newark, NJ",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.168701171875,
+          40.733730386116875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kansas City, KS",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.59228515625,
+          39.06184913429154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Topeka, KS",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69091796875,
+          39.036252959636606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Denver, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9798583984375,
+          39.73676229957947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lakewood, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.09796142578124,
+          39.71986348549764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Aurora, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83016967773438,
+          39.72884149621561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Parker, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7601318359375,
+          39.51251701659638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Littleton, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01419067382812,
+          39.61309414625366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Centennial, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.87480163574219,
+          39.579231826349016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Boulder, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.26824951171875,
+          40.01920130768676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Longmont, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.10620117187499,
+          40.166281254206545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Loveland, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0787353515625,
+          40.39885600103786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Fort Collins, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0732421875,
+          40.55763465737646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Colorado Springs, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.81781005859374,
+          38.83328935686689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Woodland Park, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05607604980469,
+          38.99410572845627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Divide, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.16113281249999,
+          38.92522904714054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Evergreen, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.32249450683594,
+          39.632134425964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Idaho Springs, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.50445556640625,
+          39.73887436009367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Georgetown, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.69671630859375,
+          39.705601889439095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Alma, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.06201171875,
+          39.28223089949212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pueblo, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6063232421875,
+          38.25974980039479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Florissant, CO",
+        "COUNTRY": "USA",
+        "TYPE": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.28884887695312,
+          38.94659331893374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lake George, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.35957336425781,
+          38.97916144039182
+        ]
+      }
     }
   ]
 }
