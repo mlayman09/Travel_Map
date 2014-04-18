@@ -2880,6 +2880,21 @@
           38.84131208727261
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Alamosa, CO",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.87249755859375,
+          37.477037796698056
+        ]
+      }
     }
   ]
 }
