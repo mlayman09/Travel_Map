@@ -3315,6 +3315,21 @@
           39.76896418929674
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Keota, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.07537460327148,
+          40.702634849027795
+        ]
+      }
     }
   ]
 }
