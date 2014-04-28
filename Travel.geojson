@@ -3330,6 +3330,21 @@
           40.702634849027795
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Briggsdale, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.32759881019592,
+          40.634253337508035
+        ]
+      }
     }
   ]
 }
