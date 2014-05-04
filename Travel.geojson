@@ -3345,6 +3345,231 @@
           40.634253337508035
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Goodland, KS",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70730590820311,
+          39.35129035526705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hays, KS",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.327392578125,
+          38.87927407130936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Goshen, IN",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83343505859374,
+          41.58155237169248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kayenta, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.25878906249999,
+          36.71962271257377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Flagstaff, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.65130615234375,
+          35.19401151791166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sedona, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.76494598388672,
+          34.86621482446047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Phoenix, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00561523437499,
+          33.458942753687644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tuba City, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2310791015625,
+          36.12900165569652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Grand Canyon National Park, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.24456787109375,
+          36.15118243124801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Las Vegas, NV",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1531982421875,
+          36.16892253622745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "San Diego, CA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.158203125,
+          32.74108223150125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Los Angeles, CA",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2568359375,
+          34.016241889667015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tecate, Mexico",
+        "COUNTRY": "Mexico",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.62261962890624,
+          32.58153501413734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ensenada, Mexico",
+        "COUNTRY": "Mexico",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6143798828125,
+          31.861229825930895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tijuana, Mexico",
+        "COUNTRY": "Mexico",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04010009765625,
+          32.532920675187846
+        ]
+      }
     }
   ]
 }
