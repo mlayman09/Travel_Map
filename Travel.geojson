@@ -3840,6 +3840,51 @@
           31.756196257571325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Blanca, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.51578521728516,
+          37.43752065647132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "San Luis, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.42617797851561,
+          37.201893907733826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Manassa, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.93704223632812,
+          37.17426939657152
+        ]
+      }
     }
   ]
 }
