@@ -3885,6 +3885,231 @@
           37.17426939657152
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Moab, UT",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.54879760742188,
+          38.576084772796115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Richfield, UT",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0880126953125,
+          38.777640223073355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Arches National Park, UT",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.55978393554688,
+          38.732661120482334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Zion National Park, UT",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9779052734375,
+          37.32648861334206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bryce Canyon National Park, UT",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1868896484375,
+          37.57233793321531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Yosemite National Park, CA",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.51202392578125,
+          37.844494798834596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Bishop, CA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39965820312499,
+          37.36797435878155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lone Pine, CA",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.06320190429688,
+          36.60560647239554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sequoia National Park, CA",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.564453125,
+          36.50963615733049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pinedale, WY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86053466796875,
+          42.86690595775125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Grand Teton National Park, WY",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.64743041992188,
+          43.81173831375078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Yellowstone National Park, WY",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.54580688476562,
+          44.62273154079542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Devils Tower, WY",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.71498489379883,
+          44.59019212395425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rifle, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.78411865234375,
+          39.53476241309834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Black Canyon of the Gunnison National Park",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.75115966796875,
+          38.586820096127674
+        ]
+      }
     }
   ]
 }
