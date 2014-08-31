@@ -4335,6 +4335,21 @@
           44.54350521320822
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Augusta, ME",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.77554321289062,
+          44.31009208868226
+        ]
+      }
     }
   ]
 }
