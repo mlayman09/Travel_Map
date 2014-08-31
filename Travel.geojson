@@ -4215,6 +4215,111 @@
           61.5828781660651
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Coldfoot, AK",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.18138885498047,
+          67.2533988343236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Wiseman, AK",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.11014938354492,
+          67.41012501871636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Anaktuvuk Pass, AK",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7153549194336,
+          68.14958763080575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Gates of the Arctic National Park, AK",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.84228515625,
+          67.93649205924049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Yukon River Camp, AK",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.72253799438477,
+          65.88152964619552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Denali National Park and Preserve, AK",
+        "COUNTRY": "USA",
+        "TYPE": "National Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.864501953125,
+          63.43823016942227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Healy, AK",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.01821136474607,
+          63.87073523117587
+        ]
+      }
     }
   ]
 }
