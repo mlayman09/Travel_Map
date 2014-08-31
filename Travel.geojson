@@ -4320,6 +4320,21 @@
           63.87073523117587
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ellsworth, ME",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4228515625,
+          44.54350521320822
+        ]
+      }
     }
   ]
 }
