@@ -4350,6 +4350,186 @@
           44.31009208868226
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Krakow, Poland",
+        "COUNTRY": "Poland",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94842529296875,
+          50.06066538593667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dead Sea, Israel",
+        "COUNTRY": "Israel",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.473480224609375,
+          31.53757858898719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tel Aviv, Israel",
+        "COUNTRY": "Israel",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80194091796875,
+          32.10584293285769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Haifa, Israel",
+        "COUNTRY": "Israel",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.991455078125,
+          32.81844077366436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sea of Galilee",
+        "COUNTRY": "Israel",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.586090087890625,
+          32.80574473290688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Golan heights, Israel",
+        "COUNTRY": "Israel",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.716552734375,
+          33.100745405144245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Craiova, Romania",
+        "COUNTRY": "Romania",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.79638671875,
+          44.315987905196906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Cluj, Romania",
+        "COUNTRY": "Romania",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57666015625,
+          46.76996843356982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dresden, Germany",
+        "COUNTRY": "Germany",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.743896484375,
+          51.04830113331224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sighisoara, Romania",
+        "COUNTRY": "Romania",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78790283203125,
+          46.22165245637913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Salida, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.00090026855469,
+          38.53635012572907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Walsenburg, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.776611328125,
+          37.628371939835816
+        ]
+      }
     }
   ]
 }
