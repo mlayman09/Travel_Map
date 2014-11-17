@@ -4530,6 +4530,36 @@
           37.628371939835816
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Empire, CO",
+        "COUNTRY": "USA",
+        "TYPE": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.68315505981445,
+          39.760915128186376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Crestone, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.69972038269043,
+          37.99508044703298
+        ]
+      }
     }
   ]
 }
