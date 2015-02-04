@@ -4560,6 +4560,21 @@
           37.99508044703298
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Steamboat Springs, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83174133300781,
+          40.48455955508278
+        ]
+      }
     }
   ]
 }
