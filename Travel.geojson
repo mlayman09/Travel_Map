@@ -4575,6 +4575,51 @@
           40.48455955508278
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Westcliffe, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.46669006347656,
+          38.134556577054134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Canon City, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.23014068603516,
+          38.44068226417387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Louisville, CO",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1336669921875,
+          39.97764627359865
+        ]
+      }
     }
   ]
 }
