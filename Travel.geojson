@@ -4650,6 +4650,36 @@
           41.589769752047076
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Page, AZ",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.45835876464844,
+          36.91366629380721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Lake Powell, USA",
+        "COUNTRY": "USA",
+        "TYPE": "Natural Feature"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.31553649902344,
+          37.0425724906182
+        ]
+      }
     }
   ]
 }
