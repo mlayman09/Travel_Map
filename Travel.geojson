@@ -4620,6 +4620,21 @@
           39.97764627359865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Chicago, IL",
+        "COUNTRY": "USA",
+        "TYPE": "City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62695312499999,
+          41.88285380945687
+        ]
+      }
     }
   ]
 }
