@@ -4635,6 +4635,21 @@
           41.88285380945687
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Rock Springs, WY",
+        "COUNTRY": "USA",
+        "TYPE": "Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.22607421875,
+          41.589769752047076
+        ]
+      }
     }
   ]
 }
