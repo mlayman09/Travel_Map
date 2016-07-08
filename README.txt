@@ -5,7 +5,7 @@ Travel Map | February 2014 | Matt Layman
 
 Column:  NAME
 
-Values: {[Name of feature, State abbreviation]}  *if not a US location, just province or country where "state" would go
+Values: {[Name of feature, State abbreviation]}  *if not a US location, just write the province or country where "state" would go. For example, "Jerusalem, Israel".
 
 
 
